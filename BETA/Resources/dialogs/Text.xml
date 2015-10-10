@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<text>
+  <s_0 count="2"><!-- count="总台词数" -->
+    <d_0 c="player0">主角台词 player 1</d_0><!-- d_n顺次排列 c="player0" 为主角台词 -->
+    <d_1 c="enemy0">敌人台词 enemy 2</d_1><!-- d_n顺次排列 c="enemy0" 为敌人台词 -->
+  </s_0>
+</text>
